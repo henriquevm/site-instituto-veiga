@@ -1,0 +1,40 @@
+@import url("quiropraxia.css");
+.lista-contato {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+.img-mapa {
+  height: 411px;
+  margin: 0 auto 20px auto; }
+
+#map {
+  width: 100%;
+  height: 411px; }
+
+@media only screen and (max-width: 991px) {
+  .img-mapa {
+    height: 211px; }
+
+  #map {
+    height: 211px; }
+
+  .lista-contato {
+    text-align: center; }
+
+  .img-contato {
+    margin: 10px auto !important; } }
+.form-control {
+  margin-bottom: 10px; }
+
+.btn {
+  width: 100%; }
+
+.lista-contato {
+  font-size: 1.1em;
+  font-weight: 600; }
+
+.img-contato {
+  margin: 10px 0; }
+
+/*# sourceMappingURL=contato.css.map */

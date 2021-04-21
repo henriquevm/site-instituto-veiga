@@ -1,0 +1,31 @@
+#conteudo {
+  margin-top: 40px; }
+
+.titulo-texto {
+  font-size: 1.9em;
+  font-weight: bold;
+  text-align: center; }
+
+.subtitulo-texto {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 10px 0; }
+
+.texto {
+  font-size: 1.3em;
+  text-align: justify;
+  margin-bottom: 20px; }
+
+.recuo {
+  text-indent: 2em; }
+
+.imagem-flutuando {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px; }
+
+.img-fullscreen {
+  margin: 0 auto;
+  height: 400px; }
+
+/*# sourceMappingURL=quiropraxia.css.map */

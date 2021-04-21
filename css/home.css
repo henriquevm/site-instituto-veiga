@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/*  Conteúdo Home */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  #carousel {
+    height: 250px !important; } }
+@media only screen and (max-width: 991px) {
+  .linha-especial {
+    min-height: 100px !important; }
+
+  .texto-home {
+    margin: 0 !important;
+    padding: 0; } }
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  #carousel {
+    height: 330px !important; } }
+@media only screen and (max-width: 767px) {
+  #carousel {
+    height: 25% !important;
+    margin-bottom: 40px !important; } }
+#carousel {
+  height: 100%;
+  position: relative;
+  margin-bottom: 20px;
+  /* Muda tamanho dos dots */ }
+  #carousel .slick-dots {
+    position: relative;
+    margin-top: -100px; }
+  #carousel .slick-dots li button:before {
+    font-size: 40px;
+    line-height: 40px; }
+  #carousel .img-full {
+    width: 100%; }
+
+.item-carousel {
+  width: 100%; }
+
+.linha-especial {
+  min-height: 400px; }
+
+.margin-bottom {
+  margin-bottom: 40px; }
+
+.row.no-gutter {
+  margin-right: 0;
+  margin-left: 0; }
+
+.row.no-gutter > [class*='col-'] {
+  padding-left: 0;
+  padding-right: 0; }
+
+#conteudo {
+  display: table;
+  padding-top: 30px;
+  text-align: center; }
+  #conteudo .linha-texto {
+    padding-top: 20px;
+    text-align: justify; }
+  #conteudo .img-destaque {
+    width: 100%;
+    height: 400px; }
+  #conteudo .um {
+    background: url("../img/home/img1.png") no-repeat;
+    background-size: cover; }
+  #conteudo .dois {
+    background: url("../img/home/img2.png") no-repeat;
+    background-size: cover; }
+  #conteudo .textos {
+    height: 400px;
+    padding: 50px;
+    display: table-cell;
+    vertical-align: middle; }
+  #conteudo .titulo {
+    font-size: 2.3em;
+    font-weight: bold; }
+  #conteudo .texto {
+    font-size: 1.2em; }
+  #conteudo .img-pessoa {
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    transition: height 0.5s, width 0.5s, border-radius 0.5s;
+    -webkit-transition: height 0.5s, width 0.5s, border-radius 0.5s;
+    -moz-transition: height 1s, width 1s, border-radius 1s;
+    -o-transition: height 1s, width 1s, border-radius 1s; }
+  #conteudo .img-pessoa:hover {
+    border-radius: 0%;
+    width: 250px;
+    height: 250px; }
+  #conteudo .val {
+    background: url("../img/home/val.png") no-repeat;
+    background-size: cover; }
+  #conteudo .fatima {
+    background: url("../img/home/fatima.png") no-repeat;
+    background-size: cover; }
+  #conteudo .diogo {
+    background: url("../img/home/diogo.png") no-repeat;
+    background-size: cover; }
+  #conteudo .elida {
+    background: url("../img/home/elida.png") no-repeat;
+    background-size: cover; }
+  #conteudo .texto-pessoa {
+    margin-top: 20px;
+    font-size: 1.1em; }
+
+/* Fim conteúdo da Home */
+
+/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,132 @@
+.linha {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.imgLogo img {
+  width: 100%;
+}
+
+.imgCapa img {
+  width: 100%;
+}
+
+.divSobre {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color: #ced7d9;
+}
+
+.txtSobre {
+  text-align: justify;
+  padding: 5rem 6rem;
+}
+
+.imgBrasao {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.imgBrasao img {
+  margin-top: 3rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.divBtn {
+  text-align: center;
+}
+
+.divComenta {
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+
+.txtVideo {
+  text-align: justify;
+  padding: 0rem 2rem;
+}
+
+.miniaturaVideo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.miniaturaVideo iframe {
+  margin-bottom: 3rem;
+}
+
+.divObserva {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+  background-color: #ced7d9;
+  margin-top: 5rem;
+}
+
+.divFace {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  height: 250px;
+  background-color: #113240;
+  color: #fff;
+}
+
+.txtFace {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+.face {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.rodape {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 70px;
+  background-color: #010229;
+  color: #fff;
+  text-align: center;
+  padding: 0.8rem 0;
+}
+
+.rodape p {
+  margin: 0;
+}
+.rodape a {
+  color: #fff !important;
+}
+
+@media (max-width: 625px) {
+  .miniaturaVideo {
+    display: none;
+  }
+
+  .txtSobre {
+    padding: 0.2rem;
+  }
+}

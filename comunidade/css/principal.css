@@ -1,0 +1,79 @@
+html {
+    overflow-x: hidden;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    margin-left: 10%;
+    width: 200px;
+    height: 200px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.capa img {
+    width: 100%;
+}
+
+.titulo {
+    align-items: center;
+    width: 100%;
+    right: 2rem;
+    position: absolute;
+    top: 28vw;
+}
+
+.titulo h1 {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0.2em 0.2em 0.4em #B5673B;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #B5673B;
+}
+
+.texto {
+    font-size: 18px;
+    margin-top: 4rem;
+    font-family: Helvetica, sans-serif;
+}
+
+.texto h2 {
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.imagem {
+    width: 100%;
+    /*margin-left: 10%;*/
+}
+
+.azul {
+    background-color: #016DAE;
+    padding: 2rem 0rem;
+    color: #FFFFFF;
+    /*align-items: center;*/
+}
+
+.corRodape {
+    background-color: #FFD600;
+    width: 100%;
+    padding: 50px 0px;
+}
+
+.corRodapefinal {
+    background-color: #8D5103;
+    width: 100%;
+    padding: 8px 0px;
+}
