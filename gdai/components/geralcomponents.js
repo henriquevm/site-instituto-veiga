@@ -47,7 +47,7 @@ class Rodape extends HTMLElement {
             <div class="rodape">
             <div class="col-lg-12">
                 <p>2020 - G-DAI</p>
-                <p style="font-size: 12px;">Desenvolvido por <a href="https://www.henriquevm.dev/"> henriquevm.dev </a> </p>
+                <p style="font-size: 12px;">Desenvolvido por <a href="https://www.henriquevm.dev/" target="_blank"> henriquevm.dev </a> </p>
             </div>
             </div>
         `;
