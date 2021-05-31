@@ -9,6 +9,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EL0ZYC8RWC"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-EL0ZYC8RWC');
+	</script>
+
     <!-- Hotjar Tracking Code for http://institutoveiga.com -->
     <script>
     (function(h,o,t,j,a,r){
