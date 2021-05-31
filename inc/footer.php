@@ -20,7 +20,6 @@
 						<a href="quiropraxia.php"><li>Quiropraxia</li></a>
 						<a href="acupuntura.php"><li>Acupuntura</li></a>
 						<a href="localizacao.php"><li>Localização</li></a>
-						<a href="psicologia.php"><li>Psicologia</li></a>
 						<a href="contato.php"><li>Contato</li></a>
 					</ul>
 				</div>

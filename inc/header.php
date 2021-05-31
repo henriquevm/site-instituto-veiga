@@ -124,9 +124,6 @@
 								<li><a href="index.php">Home</a></li>
 								<li><a href="quiropraxia.php">Quiropraxia</a></li>
 								<li><a href="acupuntura.php">Acupuntura</a></li>
-								<li><a href="psicologia.php">Psicologia</a></li>
-								<li><a href="nutricao.php">Nutrição</a></li>
-								<li><a href="fisioterapia.php">Fisioterapia</a></li>
 								<li><a href="localizacao.php">Localização</a></li>
 								<li><a href="contato.php">Contato</a></li>
 							</ul>

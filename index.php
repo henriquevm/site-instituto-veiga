@@ -45,7 +45,7 @@
 		</div>
 		<div class="row margin-bottom">
 			<div class="container">
-				<div class="col-md-6">
+				<div class="col-md-12">
 					<div class="row">
 						<div class="col-md-12">
 							<div class="img-pessoa fatima"></div>
@@ -59,7 +59,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
+				<!--<div class="col-md-6">
 					<div class="row">
 						<div class="img-pessoa val"></div>
 					</div>
@@ -70,9 +70,10 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 			</div>
 		</div>
+		<!--
 		<div class="row margin-bottom">
 			<div class="container">
 				<div class="col-md-6">
@@ -103,6 +104,7 @@
 				</div>
 			</div>
 		</div>
+		-->
 	</section>
 
 <?php
