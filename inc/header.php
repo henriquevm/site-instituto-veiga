@@ -81,9 +81,8 @@
 				<div class="container">
 					<div class="row hidden-xs hidden-sm cabecalho">
 						<div class="col-md-4 col-sm-6">
-							<a href="index.php"><img src="img/logo.png" alt="Instituto Veiga" class="img-responsive img-logo"></a>
+							<a href="index.php"><img src="img/logoSVG.svg" alt="Instituto Veiga" class="img-responsive img-logo"></a>
 						</div>
-						<div class="col-md-1"></div>
 						<div class="col-md-4">
 							<div class="texto-header vcenter">
 								<div class="icone"><div class="icon-header iconeMax" ><i class="fas fa-clock"></i></div>&nbsp;&nbsp;Segunda a Sexta das 8:00 às 18:00</div>
@@ -91,7 +90,7 @@
 								<div class="icone"><div class="icon-header iconeMax"><i class="fas fa-phone-square"></i></div>&nbsp;&nbsp;(35) 998307037</div>
 							</div>
 						</div>
-						<div class="col-md-3">
+						<div class="col-md-4">
 							<div class="texto-header vcenter">
 								<div class="icone"><div class="icon-header iconeMax"><i class="fas fa-location-arrow"></i></div>&nbsp;&nbsp;Rua Padre Zeferino, 230 - Centro</div>
 								<div class="icone"><div class="icon-header iconeMax"><i class="fas fa-map-marker"></i></div>&nbsp;&nbsp;Bueno Brandão - MG</div>
