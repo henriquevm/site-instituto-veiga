@@ -23,6 +23,12 @@
 								<span><i class="fas fa-phone-square"></i>&nbsp;&nbsp;(35) 998307037</span>
 								<span><i class="fas fa-location-arrow"></i>&nbsp;&nbsp;Rua Padre Zeferino, 230 - Centro</span>
 								<span><i class="fas fa-map-marker"></i>&nbsp;&nbsp;Bueno Brandão - MG</span>
+								<a href="https://www.facebook.com/institutoveiga" target="_blank">
+									<span><i class="fab fa-facebook"></i>&nbsp;&nbsp;/institutoveiga</span>
+								</a>
+								<a href="https://www.instagram.com/institutoveiga/" target="_blank">
+									<span><i class="fab fa-instagram"></i>&nbsp;&nbsp;/institutoveiga</span>
+								</a>
 							</div>
 						</div>
 					</div>

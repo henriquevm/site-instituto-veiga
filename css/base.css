@@ -51,7 +51,12 @@ body {
 .texto-header span:first {
   margin-top: 0;
 }
-
+.texto-header a {
+  color: #111;
+}
+.texto-header a:hover {
+  color: rgb(83, 78, 78);
+}
 .affix {
   top: 0px;
   width: 100%;
