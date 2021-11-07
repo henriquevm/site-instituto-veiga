@@ -43,68 +43,29 @@
 				</div>
 			</div>
 		</div>
-		<div class="row margin-bottom">
+		<div class="row no-gutter margin-bottom">
 			<div class="container">
-				<div class="col-md-12">
-					<div class="row">
-						<div class="col-md-12">
-							<div class="img-pessoa fatima"></div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="texto-pessoa">
-								Fátima Veiga, formada em Bacharel pela Universidade Anhembi Morumbi de São Paulo e pós Graduação em Acupuntura pelo CIEFATO - SP
-							</div>
-						</div>
-					</div>
-				</div>
-				<!--<div class="col-md-6">
-					<div class="row">
-						<div class="img-pessoa val"></div>
-					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="texto-pessoa">
-								Valdirene Matias, psicóloga - CRP 100844 6ª Região de Campinas/SP e 4ª Região de Pouso Alegre/MG
-							</div>
-						</div>
-					</div>
-				</div>-->
-			</div>
-		</div>
-		<!--
-		<div class="row margin-bottom">
-			<div class="container">
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<div class="img-pessoa diogo"></div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="texto-pessoa">
-								Dr. Diogo Nogueira Fisioterapeuta - CREFITO-4/266542-F
-							</div>
-						</div>
+				<div class="col-md-6">	
+					<div class="texto-pessoa">
+						<p>Fátima Veiga</p>
+						<ul>
+							<li>Formada em Bacharel pela Universidade Anhembi Morumbi em Quiropraxia em 2008</li>
+							<li>Pós graduação em Acupuntura pelo CIEFATO - São Paulo 2009</li>
+							<li> Seminário de Neurologia Prática e Técnica de Thompson em 2019</li>
+							<li>Curso de Técnicas de Quiropraxia no Gerenciamento de Lesões Esportivas em 2019</li>
+							<li>Cursos completementar de Auriciloterapia, Ventosatetapia, Moxabustão e Cone Hindu</li>
+						</ul>
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="row">
-						<div class="img-pessoa elida"></div>
+					<div class="img-perfil" >
+						<img src="img/home/fatima.png" alt="Foto de perfil da Fátima Veiga">
 					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="texto-pessoa">
-								Élida Paula Dini de Franco Nutricionista Especialista em Nutrição Clínica e Funcional Mestre em Biologia Molecular e Tumoral
-							</div>
-						</div>
-					</div>
-				</div>
+				</div>	
+
 			</div>
 		</div>
-		-->
+
 	</section>
 
 <?php
